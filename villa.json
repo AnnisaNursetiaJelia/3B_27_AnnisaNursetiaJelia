@@ -1,0 +1,2 @@
+{"_id":{"$oid":"676ca87ba1fff0d5d3fe6911"},"Nama":"Villa Mawar","Lokasi":"Bandung","Harga_per_malam":"Rp.150.000","Maksimal_Tamu":"6 orang","Fasilitas":"Kolam renang, Wifi, AC","Status":"Tersedia"}
+{"_id":{"$oid":"676ca8d2a1fff0d5d3fe6912"},"Nama":"Villa Melati","Lokasi":"Puncak","Harga_per_malam":"Rp.200.000","Maksimal_Tamu":"8 orang","Fasilitas":"Kolam renang, Wifi, AC","Status":"Tersedia"}

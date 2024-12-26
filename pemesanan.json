@@ -1,0 +1,2 @@
+{"_id":{"$oid":"676cabe5a1fff0d5d3fe6915"},"Kode_Booking":"B001","Username":"Budi123","Villa":"Villa Mawar","Tanggal_Cekin":"24 Desember 2024","Tanggal_Cekout":"26 Desember 2024","Total_Harga":"Rp.300.000","Status":"Dikonfirmasi","Tanggal_Pemesanan":"1 Desember 2024"}
+{"_id":{"$oid":"676cac3aa1fff0d5d3fe6916"},"Kode_Booking":"B002","Username":"Sitiaisyah123","Villa":"Villa Melati","Tanggal_Cekin":"27 Desember 2024","Tanggal_Cekout":"29 Desember 2024","Total_Harga":"Rp.400.000","Status":"Dikonfirmasi","Tanggal_Pemesanan":"3 Desember 2024"}

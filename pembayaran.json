@@ -1,0 +1,2 @@
+{"_id":{"$oid":"676cacaba1fff0d5d3fe6917"},"Kode_Booking":"B001","Tanggal_Pembayaran":"1 Desember 2024","Jumlah":"Rp.300.000","Metode_Pembayaran":"Transfer Bank","Status":"Selesai"}
+{"_id":{"$oid":"676cacc2a1fff0d5d3fe6918"},"Kode_Booking":"B002","Tanggal_Pembayaran":"3 Desember 2024","Jumlah":"Rp.400.000","Metode_Pembayaran":"Transfer Bank","Status":"Selesai"}
